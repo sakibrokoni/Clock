@@ -1,4 +1,4 @@
-Responsive Clock
+<!-- Responsive Clock  -->
 Beautiful responsive clock UI design using HTML, CSS, and JAVASCRIPT.
 Contains an elegant Neumorphism watch.
 Also a clock in the form of text.
